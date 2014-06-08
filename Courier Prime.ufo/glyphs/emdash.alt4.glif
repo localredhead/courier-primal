@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash.alt4" format="1">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="1395" y="650" type="line" smooth="yes"/>
+      <point x="1429" y="650"/>
+      <point x="1458" y="620"/>
+      <point x="1458" y="582" type="qcurve" smooth="yes"/>
+      <point x="1458" y="544"/>
+      <point x="1429" y="514"/>
+      <point x="1395" y="514" type="qcurve" smooth="yes"/>
+      <point x="-167" y="514" type="line" smooth="yes"/>
+      <point x="-201" y="514"/>
+      <point x="-230" y="544"/>
+      <point x="-230" y="582" type="qcurve" smooth="yes"/>
+      <point x="-230" y="620"/>
+      <point x="-201" y="650"/>
+      <point x="-167" y="650" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

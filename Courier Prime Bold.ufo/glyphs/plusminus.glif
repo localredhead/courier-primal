@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="1228"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="233" y="620" type="line" smooth="yes"/>
+      <point x="216" y="620"/>
+      <point x="192" y="628"/>
+      <point x="184.5" y="640.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="177" y="652"/>
+      <point x="170" y="696"/>
+      <point x="170" y="732" type="qcurve" smooth="yes"/>
+      <point x="170" y="768"/>
+      <point x="177" y="812"/>
+      <point x="184.5" y="824.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="192" y="836"/>
+      <point x="216" y="845"/>
+      <point x="233" y="845" type="qcurve" smooth="yes"/>
+      <point x="501" y="845" type="line"/>
+      <point x="501" y="1063" type="line" smooth="yes"/>
+      <point x="501" y="1080"/>
+      <point x="510" y="1104"/>
+      <point x="522.0" y="1111.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="534" y="1119"/>
+      <point x="578" y="1126"/>
+      <point x="614" y="1126" type="qcurve" smooth="yes"/>
+      <point x="650" y="1126"/>
+      <point x="694" y="1119"/>
+      <point x="706.0" y="1111.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="718" y="1104"/>
+      <point x="726" y="1080"/>
+      <point x="726" y="1063" type="qcurve" smooth="yes"/>
+      <point x="726" y="845" type="line"/>
+      <point x="995" y="845" type="line" smooth="yes"/>
+      <point x="1012" y="845"/>
+      <point x="1036" y="836"/>
+      <point x="1043.5" y="824.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1051" y="812"/>
+      <point x="1058" y="768"/>
+      <point x="1058" y="732" type="qcurve" smooth="yes"/>
+      <point x="1058" y="696"/>
+      <point x="1051" y="652"/>
+      <point x="1043.5" y="640.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1036" y="628"/>
+      <point x="1012" y="620"/>
+      <point x="995" y="620" type="qcurve" smooth="yes"/>
+      <point x="726" y="620" type="line"/>
+      <point x="726" y="401" type="line" smooth="yes"/>
+      <point x="726" y="384"/>
+      <point x="718" y="360"/>
+      <point x="706.0" y="352.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="694" y="345"/>
+      <point x="650" y="338"/>
+      <point x="614" y="338" type="qcurve" smooth="yes"/>
+      <point x="578" y="338"/>
+      <point x="534" y="345"/>
+      <point x="522.0" y="352.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="510" y="360"/>
+      <point x="501" y="384"/>
+      <point x="501" y="401" type="qcurve" smooth="yes"/>
+      <point x="501" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="995" y="225" type="line" smooth="yes"/>
+      <point x="1012" y="225"/>
+      <point x="1036" y="216"/>
+      <point x="1043.5" y="204.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1051" y="192"/>
+      <point x="1058" y="148"/>
+      <point x="1058" y="112" type="qcurve" smooth="yes"/>
+      <point x="1058" y="76"/>
+      <point x="1051" y="32"/>
+      <point x="1043.5" y="20.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1036" y="8"/>
+      <point x="1012" y="0"/>
+      <point x="995" y="0" type="qcurve" smooth="yes"/>
+      <point x="233" y="0" type="line" smooth="yes"/>
+      <point x="216" y="0"/>
+      <point x="192" y="8"/>
+      <point x="184.5" y="20.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="177" y="32"/>
+      <point x="170" y="76"/>
+      <point x="170" y="112" type="qcurve" smooth="yes"/>
+      <point x="170" y="148"/>
+      <point x="177" y="192"/>
+      <point x="184.5" y="204.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="192" y="216"/>
+      <point x="216" y="225"/>
+      <point x="233" y="225" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

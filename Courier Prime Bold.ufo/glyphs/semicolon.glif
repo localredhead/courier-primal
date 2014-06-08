@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="1228"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="419" y="751" type="qcurve" smooth="yes"/>
+      <point x="419" y="791"/>
+      <point x="450" y="863"/>
+      <point x="476.0" y="889.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="502" y="915"/>
+      <point x="573" y="946"/>
+      <point x="614" y="946" type="qcurve" smooth="yes"/>
+      <point x="654" y="946"/>
+      <point x="726" y="915"/>
+      <point x="752.0" y="889.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="778" y="863"/>
+      <point x="809" y="791"/>
+      <point x="809" y="751" type="qcurve" smooth="yes"/>
+      <point x="809" y="710"/>
+      <point x="778" y="639"/>
+      <point x="752.0" y="613.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="726" y="587"/>
+      <point x="654" y="556"/>
+      <point x="614" y="556" type="qcurve" smooth="yes"/>
+      <point x="573" y="556"/>
+      <point x="502" y="587"/>
+      <point x="476.0" y="613.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="450" y="639"/>
+      <point x="419" y="710"/>
+    </contour>
+    <contour>
+      <point x="520" y="-253" type="line" smooth="yes"/>
+      <point x="509" y="-274"/>
+      <point x="469" y="-294"/>
+      <point x="434" y="-294" type="qcurve" smooth="yes"/>
+      <point x="392" y="-294"/>
+      <point x="349" y="-260"/>
+      <point x="354" y="-228" type="qcurve" smooth="yes"/>
+      <point x="448" y="314" type="line" smooth="yes"/>
+      <point x="452.0" y="334.0" name="inserted"/>
+      <point x="478.0" y="354.0"/>
+      <point x="500" y="354" type="qcurve" smooth="yes"/>
+      <point x="759" y="354" type="line" smooth="yes"/>
+      <point x="784" y="354"/>
+      <point x="800" y="317"/>
+      <point x="787" y="291" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

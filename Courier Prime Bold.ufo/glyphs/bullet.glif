@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="1228"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="320" y="579" type="qcurve" smooth="yes"/>
+      <point x="320" y="640"/>
+      <point x="366" y="747"/>
+      <point x="406.0" y="787.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="446" y="827"/>
+      <point x="553" y="873"/>
+      <point x="614" y="873" type="qcurve" smooth="yes"/>
+      <point x="675" y="873"/>
+      <point x="782" y="827"/>
+      <point x="822.0" y="787.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="862" y="747"/>
+      <point x="908" y="640"/>
+      <point x="908" y="579" type="qcurve" smooth="yes"/>
+      <point x="908" y="518"/>
+      <point x="862" y="411"/>
+      <point x="822.0" y="371.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="782" y="331"/>
+      <point x="675" y="285"/>
+      <point x="614" y="285" type="qcurve" smooth="yes"/>
+      <point x="553" y="285"/>
+      <point x="446" y="331"/>
+      <point x="406.0" y="371.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="366" y="411"/>
+      <point x="320" y="518"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

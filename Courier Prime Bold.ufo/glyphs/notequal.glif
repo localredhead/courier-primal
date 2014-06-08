@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="1228"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="691" y="924" type="line"/>
+      <point x="777" y="1083" type="line" smooth="yes"/>
+      <point x="785" y="1098"/>
+      <point x="804" y="1115"/>
+      <point x="816.5" y="1117.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="829" y="1119"/>
+      <point x="864" y="1108"/>
+      <point x="889" y="1095" type="qcurve" smooth="yes"/>
+      <point x="938" y="1068"/>
+      <point x="957" y="1025"/>
+      <point x="941" y="995" type="qcurve" smooth="yes"/>
+      <point x="903" y="924" type="line"/>
+      <point x="995" y="924" type="line" smooth="yes"/>
+      <point x="1012" y="924"/>
+      <point x="1036" y="915"/>
+      <point x="1043.5" y="903.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1051" y="891"/>
+      <point x="1058" y="847"/>
+      <point x="1058" y="811" type="qcurve" smooth="yes"/>
+      <point x="1058" y="775"/>
+      <point x="1051" y="731"/>
+      <point x="1043.5" y="719.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1036" y="707"/>
+      <point x="1012" y="699"/>
+      <point x="995" y="699" type="qcurve" smooth="yes"/>
+      <point x="782" y="699" type="line"/>
+      <point x="657" y="466" type="line"/>
+      <point x="995" y="466" type="line" smooth="yes"/>
+      <point x="1012" y="466"/>
+      <point x="1036" y="457"/>
+      <point x="1043.5" y="445.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1051" y="433"/>
+      <point x="1058" y="389"/>
+      <point x="1058" y="353" type="qcurve" smooth="yes"/>
+      <point x="1058" y="317"/>
+      <point x="1051" y="273"/>
+      <point x="1043.5" y="261.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1036" y="249"/>
+      <point x="1012" y="241"/>
+      <point x="995" y="241" type="qcurve" smooth="yes"/>
+      <point x="536" y="241" type="line"/>
+      <point x="451" y="82" type="line" smooth="yes"/>
+      <point x="443" y="67"/>
+      <point x="425" y="50"/>
+      <point x="412.0" y="48.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="399" y="46"/>
+      <point x="364" y="57"/>
+      <point x="339" y="70" type="qcurve" smooth="yes"/>
+      <point x="314" y="83"/>
+      <point x="286" y="106"/>
+      <point x="280.5" y="118.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="275" y="130"/>
+      <point x="279" y="154"/>
+      <point x="287" y="169" type="qcurve" smooth="yes"/>
+      <point x="325" y="241" type="line"/>
+      <point x="233" y="241" type="line" smooth="yes"/>
+      <point x="216" y="241"/>
+      <point x="192" y="249"/>
+      <point x="184.5" y="261.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="177" y="273"/>
+      <point x="170" y="317"/>
+      <point x="170" y="353" type="qcurve" smooth="yes"/>
+      <point x="170" y="389"/>
+      <point x="177" y="433"/>
+      <point x="184.5" y="445.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="192" y="457"/>
+      <point x="216" y="466"/>
+      <point x="233" y="466" type="qcurve" smooth="yes"/>
+      <point x="446" y="466" type="line"/>
+      <point x="571" y="699" type="line"/>
+      <point x="233" y="699" type="line" smooth="yes"/>
+      <point x="216" y="699"/>
+      <point x="192" y="707"/>
+      <point x="184.5" y="719.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="177" y="731"/>
+      <point x="170" y="775"/>
+      <point x="170" y="811" type="qcurve" smooth="yes"/>
+      <point x="170" y="847"/>
+      <point x="177" y="891"/>
+      <point x="184.5" y="903.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="192" y="915"/>
+      <point x="216" y="924"/>
+      <point x="233" y="924" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

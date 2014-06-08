@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="1228"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="185" y="190" type="line" smooth="yes"/>
+      <point x="168" y="181"/>
+      <point x="128" y="206"/>
+      <point x="112" y="227" type="qcurve" smooth="yes"/>
+      <point x="103" y="239"/>
+      <point x="91" y="267"/>
+      <point x="89.0" y="279.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="87" y="292"/>
+      <point x="94" y="313"/>
+      <point x="105" y="319" type="qcurve" smooth="yes"/>
+      <point x="1042" y="840" type="line" smooth="yes"/>
+      <point x="1059" y="849"/>
+      <point x="1102" y="823"/>
+      <point x="1118" y="800" type="qcurve" smooth="yes"/>
+      <point x="1135" y="776"/>
+      <point x="1143" y="723"/>
+      <point x="1122" y="711" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1228"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="654" y="24" type="line" smooth="yes"/>
+      <point x="647" y="7"/>
+      <point x="617" y="-13"/>
+      <point x="597.0" y="-17.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="577" y="-22"/>
+      <point x="532" y="-21"/>
+      <point x="510" y="-16" type="qcurve" smooth="yes"/>
+      <point x="486" y="-10"/>
+      <point x="442" y="11"/>
+      <point x="428.0" y="25.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="414" y="40"/>
+      <point x="403" y="76"/>
+      <point x="412" y="97" type="qcurve" smooth="yes"/>
+      <point x="784" y="972" type="line"/>
+      <point x="418" y="972" type="line"/>
+      <point x="418" y="760" type="line" smooth="yes"/>
+      <point x="418" y="743"/>
+      <point x="408" y="719"/>
+      <point x="396.0" y="711.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="384" y="704"/>
+      <point x="342" y="697"/>
+      <point x="310" y="697" type="qcurve" smooth="yes"/>
+      <point x="246" y="697"/>
+      <point x="188" y="726"/>
+      <point x="188" y="760" type="qcurve" smooth="yes"/>
+      <point x="188" y="1122" type="line" smooth="yes"/>
+      <point x="188" y="1157"/>
+      <point x="218" y="1187"/>
+      <point x="253" y="1187" type="qcurve" smooth="yes"/>
+      <point x="1017" y="1187" type="line" smooth="yes"/>
+      <point x="1034" y="1187"/>
+      <point x="1058" y="1179"/>
+      <point x="1065.5" y="1167.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1073" y="1156"/>
+      <point x="1080" y="1116"/>
+      <point x="1080" y="1084" type="qcurve" smooth="yes"/>
+      <point x="1080.0" y="1059.0" name="inserted"/>
+      <point x="1075.5" y="1023.0"/>
+      <point x="1071" y="1012" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

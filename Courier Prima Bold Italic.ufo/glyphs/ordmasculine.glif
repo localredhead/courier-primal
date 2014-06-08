@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="1228"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="634" y="465" type="qcurve" smooth="yes"/>
+      <point x="555" y="465"/>
+      <point x="430" y="513"/>
+      <point x="387.0" y="555.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="344" y="597"/>
+      <point x="298" y="712"/>
+      <point x="298" y="780" type="qcurve" smooth="yes"/>
+      <point x="298" y="856"/>
+      <point x="353" y="1009"/>
+      <point x="408.5" y="1070.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="464" y="1132"/>
+      <point x="634" y="1209"/>
+      <point x="749" y="1209" type="qcurve" smooth="yes"/>
+      <point x="828" y="1209"/>
+      <point x="952" y="1161"/>
+      <point x="995.5" y="1119.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1039" y="1077"/>
+      <point x="1085" y="961"/>
+      <point x="1085" y="894" type="qcurve" smooth="yes"/>
+      <point x="1085" y="822"/>
+      <point x="1033" y="669"/>
+      <point x="978.0" y="607.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="923" y="545"/>
+      <point x="752" y="465"/>
+    </contour>
+    <contour>
+      <point x="726" y="1035" type="qcurve" smooth="yes"/>
+      <point x="673" y="1035"/>
+      <point x="591" y="994"/>
+      <point x="562.0" y="959.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="533" y="925"/>
+      <point x="503" y="837"/>
+      <point x="503" y="790" type="qcurve" smooth="yes"/>
+      <point x="503" y="720"/>
+      <point x="585" y="640"/>
+      <point x="657" y="640" type="qcurve" smooth="yes"/>
+      <point x="709" y="640"/>
+      <point x="792" y="681"/>
+      <point x="820.5" y="715.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="849" y="749"/>
+      <point x="879" y="836"/>
+      <point x="879" y="883" type="qcurve" smooth="yes"/>
+      <point x="879" y="953"/>
+      <point x="798" y="1035"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

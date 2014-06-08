@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.alt" format="1">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="706" y="186" type="qcurve" smooth="yes"/>
+      <point x="706" y="229"/>
+      <point x="739" y="305"/>
+      <point x="767.0" y="333.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="795" y="361"/>
+      <point x="871" y="394"/>
+      <point x="914" y="394" type="qcurve" smooth="yes"/>
+      <point x="957" y="394"/>
+      <point x="1033" y="361"/>
+      <point x="1061.0" y="333.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1089" y="305"/>
+      <point x="1122" y="229"/>
+      <point x="1122" y="186" type="qcurve" smooth="yes"/>
+      <point x="1122" y="143"/>
+      <point x="1089" y="67"/>
+      <point x="1061.0" y="39.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1033" y="11"/>
+      <point x="957" y="-22"/>
+      <point x="914" y="-22" type="qcurve" smooth="yes"/>
+      <point x="871" y="-22"/>
+      <point x="795" y="11"/>
+      <point x="767.0" y="39.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="739" y="67"/>
+      <point x="706" y="143"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
