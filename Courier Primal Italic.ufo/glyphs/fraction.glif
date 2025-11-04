@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="1228"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="1120" y="840" type="line" smooth="yes"/>
+      <point x="1137" y="849"/>
+      <point x="1167" y="833"/>
+      <point x="1178" y="812" type="qcurve" smooth="yes"/>
+      <point x="1188" y="792"/>
+      <point x="1183" y="762"/>
+      <point x="1164" y="751" type="qcurve" smooth="yes"/>
+      <point x="149" y="190" type="line" smooth="yes"/>
+      <point x="132" y="181"/>
+      <point x="102" y="197"/>
+      <point x="91" y="218" type="qcurve" smooth="yes"/>
+      <point x="81" y="238"/>
+      <point x="86" y="268"/>
+      <point x="105" y="279" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

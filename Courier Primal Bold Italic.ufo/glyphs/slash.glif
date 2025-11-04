@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slash" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
   <advance width="1228"/>
   <unicode hex="002F"/>
   <outline>
@@ -26,11 +26,4 @@
       <point x="1202" y="1221" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

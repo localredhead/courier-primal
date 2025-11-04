@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onequarter" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
   <advance width="1228"/>
   <unicode hex="00BC"/>
   <outline>
@@ -7,11 +7,4 @@
     <component base="foursuperior" xScale="0.84716796875" yScale="0.846313476562" xOffset="293" yOffset="-626"/>
     <component base="onesuperior" xScale="0.833984375" yScale="0.833984375" xOffset="-226" yOffset="281"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

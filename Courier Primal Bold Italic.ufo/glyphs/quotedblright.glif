@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblright" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
   <advance width="1228"/>
   <unicode hex="201D"/>
   <outline>
@@ -38,11 +38,4 @@
       <point x="1209" y="1146" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onesuperior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
   <advance width="1228"/>
   <unicode hex="00B9"/>
   <outline>
@@ -9,13 +9,13 @@
       <point x="480" y="1049"/>
       <point x="441" y="1069"/>
       <point x="428" y="1117" type="qcurve" smooth="yes"/>
-      <point x="417.0" y="1157.5" name="inserted"/>
+      <point x="417.0" y="1157.5"/>
       <point x="439.0" y="1208.5"/>
       <point x="472" y="1219" type="qcurve" smooth="yes"/>
       <point x="817" y="1329" type="line" smooth="yes"/>
       <point x="834" y="1334"/>
       <point x="864" y="1334"/>
-      <point x="874.5" y="1328.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="874.5" y="1328.0" type="qcurve" smooth="yes"/>
       <point x="885" y="1322"/>
       <point x="895" y="1296"/>
       <point x="891" y="1275" type="qcurve" smooth="yes"/>
@@ -37,11 +37,4 @@
       <point x="587" y="653" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

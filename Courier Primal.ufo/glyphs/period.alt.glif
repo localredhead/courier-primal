@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.alt" format="2">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="745" y="147" type="qcurve" smooth="yes"/>
+      <point x="745" y="182"/>
+      <point x="772" y="243"/>
+      <point x="795.0" y="266.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="818" y="289"/>
+      <point x="879" y="316"/>
+      <point x="914" y="316" type="qcurve" smooth="yes"/>
+      <point x="949" y="316"/>
+      <point x="1010" y="289"/>
+      <point x="1033.0" y="266.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1056" y="243"/>
+      <point x="1083" y="182"/>
+      <point x="1083" y="147" type="qcurve" smooth="yes"/>
+      <point x="1083" y="112"/>
+      <point x="1056" y="51"/>
+      <point x="1033.0" y="28.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1010" y="5"/>
+      <point x="949" y="-22"/>
+      <point x="914" y="-22" type="qcurve" smooth="yes"/>
+      <point x="879" y="-22"/>
+      <point x="818" y="5"/>
+      <point x="795.0" y="28.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="772" y="51"/>
+      <point x="745" y="112"/>
+    </contour>
+  </outline>
+</glyph>

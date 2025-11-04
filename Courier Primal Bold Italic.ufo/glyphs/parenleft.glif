@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenleft" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
   <advance width="1228"/>
   <unicode hex="0028"/>
   <outline>
@@ -51,11 +51,4 @@
       <point x="766" y="1230"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="underscore" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
   <advance width="1228"/>
   <unicode hex="005F"/>
   <outline>
@@ -32,11 +32,4 @@
       <point x="1172" y="-513" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="comma.alt" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma.alt" format="2">
   <advance width="1228"/>
   <outline>
     <contour>
       <point x="720" y="-253" type="line" smooth="yes"/>
-      <point x="706.0" y="-273.5" name="inserted"/>
+      <point x="706.0" y="-273.5"/>
       <point x="657.0" y="-294.0"/>
       <point x="622" y="-294" type="qcurve" smooth="yes"/>
       <point x="580" y="-294"/>
@@ -20,11 +20,4 @@
       <point x="1088" y="291" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

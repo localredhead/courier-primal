@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hyphen" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
   <advance width="1228"/>
   <unicode hex="002D"/>
   <outline>
@@ -32,11 +32,4 @@
       <point x="285" y="695" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

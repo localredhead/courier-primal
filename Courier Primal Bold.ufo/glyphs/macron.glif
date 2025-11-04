@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="1228"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="895" y="1275" type="line" smooth="yes"/>
+      <point x="912" y="1275"/>
+      <point x="936" y="1267"/>
+      <point x="943.5" y="1255.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="951" y="1244"/>
+      <point x="958" y="1204"/>
+      <point x="958" y="1172" type="qcurve" smooth="yes"/>
+      <point x="958" y="1140"/>
+      <point x="951" y="1100"/>
+      <point x="943.5" y="1089.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="936" y="1078"/>
+      <point x="912" y="1070"/>
+      <point x="895" y="1070" type="qcurve" smooth="yes"/>
+      <point x="333" y="1070" type="line" smooth="yes"/>
+      <point x="316" y="1070"/>
+      <point x="292" y="1078"/>
+      <point x="284.5" y="1089.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="277" y="1100"/>
+      <point x="270" y="1140"/>
+      <point x="270" y="1172" type="qcurve" smooth="yes"/>
+      <point x="270" y="1204"/>
+      <point x="277" y="1244"/>
+      <point x="284.5" y="1255.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="292" y="1267"/>
+      <point x="316" y="1275"/>
+      <point x="333" y="1275" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

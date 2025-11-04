@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1228"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="642" y="1144" type="line" smooth="yes"/>
+      <point x="661" y="1180"/>
+      <point x="717" y="1209"/>
+      <point x="757" y="1209" type="qcurve" smooth="yes"/>
+      <point x="797" y="1209"/>
+      <point x="840" y="1179"/>
+      <point x="846" y="1144" type="qcurve" smooth="yes"/>
+      <point x="1014" y="136" type="line"/>
+      <point x="1098" y="136" type="line" smooth="yes"/>
+      <point x="1132" y="136"/>
+      <point x="1156" y="106"/>
+      <point x="1149" y="68" type="qcurve" smooth="yes"/>
+      <point x="1143" y="30"/>
+      <point x="1109" y="0"/>
+      <point x="1075" y="0" type="qcurve" smooth="yes"/>
+      <point x="13" y="0" type="line" smooth="yes"/>
+      <point x="-21" y="0"/>
+      <point x="-45" y="30"/>
+      <point x="-39" y="68" type="qcurve" smooth="yes"/>
+      <point x="-32" y="106"/>
+      <point x="2" y="136"/>
+      <point x="36" y="136" type="qcurve" smooth="yes"/>
+      <point x="113" y="136" type="line"/>
+    </contour>
+    <contour>
+      <point x="863" y="136" type="line"/>
+      <point x="729" y="1022" type="line"/>
+      <point x="277" y="136" type="line"/>
+    </contour>
+  </outline>
+</glyph>
